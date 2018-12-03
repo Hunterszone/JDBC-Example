@@ -4,7 +4,7 @@ CRUD operations on a custom MySql table, using JDBC
 ## How to use:
 * Create an empty MySql database, called EMP, using PhpMyAdmin or another DB manager
 * Import the .SQL file
-* Set username & pass to "root" in your config.inc.php (for PhpMyAdmin)
+* Set DB username & pass to "root" in your config.inc.php (for PhpMyAdmin)
 * Import the JDBC project into your workspace
 * Start the DB on Localhost
 
