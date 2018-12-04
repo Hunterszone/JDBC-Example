@@ -1,4 +1,4 @@
-# JDBC_Example
+# JDBC-Example
 CRUD operations on a custom MySql table, using JDBC
 
 ## How to use:
