@@ -1,5 +1,5 @@
 # JDBC-Example
-CRUD operations on a custom MySql table, using JDBC
+CRUD operations, performed against a MySql DB table using JDBC
 
 ## How to use:
 1. Create an empty MySql database, called EMP, using PhpMyAdmin or another DB manager
